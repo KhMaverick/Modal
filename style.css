@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    min-height: min-content;
+    background-image: url("vladstudio_mountain2_1920x1200.jpg");
+    object-fit: cover;
+}
+.chucle{
+    height: 100px;
+    padding-top: 10px;
+}
+#C_image{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+#offcanvasScrolling{
+    background-color: rgb(57, 2, 108);
+    color: white;
+}
+#grunt{
+    background-color: rgb(255, 255, 255);
+}
+.card{
+    box-shadow: 5px 5px 10px black;
+}
